@@ -1,0 +1,17 @@
+month,action,email_open,email_clickthrough,sent_reengagement_email_duplicate_column_name_1,sent_reengagement_email
+2014-05-01 00:00:00,sent_weekly_digest,0,0,11730,0
+2014-05-01 00:00:00,sent_reengagement_email,0,0,0,758
+2014-05-01 00:00:00,email_open,4212,0,0,0
+2014-05-01 00:00:00,email_clickthrough,0,2023,0,0
+2014-06-01 00:00:00,email_clickthrough,0,2274,0,0
+2014-06-01 00:00:00,sent_weekly_digest,0,0,13155,0
+2014-06-01 00:00:00,sent_reengagement_email,0,0,0,889
+2014-06-01 00:00:00,email_open,4658,0,0,0
+2014-07-01 00:00:00,sent_reengagement_email,0,0,0,933
+2014-07-01 00:00:00,email_clickthrough,0,2721,0,0
+2014-07-01 00:00:00,email_open,5611,0,0,0
+2014-07-01 00:00:00,sent_weekly_digest,0,0,15902,0
+2014-08-01 00:00:00,email_clickthrough,0,1992,0,0
+2014-08-01 00:00:00,sent_weekly_digest,0,0,16480,0
+2014-08-01 00:00:00,sent_reengagement_email,0,0,0,1073
+2014-08-01 00:00:00,email_open,5978,0,0,0

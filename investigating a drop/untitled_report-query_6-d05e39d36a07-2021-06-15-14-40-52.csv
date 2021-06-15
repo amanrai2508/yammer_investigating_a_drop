@@ -1,0 +1,9 @@
+month,event_type,total_count
+5.0,engagement,77646
+6.0,engagement,78306
+7.0,engagement,91830
+8.0,engagement,73793
+5.0,signup_flow,4156
+6.0,signup_flow,4593
+7.0,signup_flow,5212
+8.0,signup_flow,5296
