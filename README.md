@@ -1,20 +1,20 @@
 # investigating a drop
  
-**The Problem.**
+# The Problem
 
 &quot;How did our weekly engagement drop 21% in a month?!&quot;
 
-**Job:**
+# **Job:**
 
 to identify the cause of this sudden drop in engagement and suggest possible next steps and solutions.
 
-**Procedure**
+# **Procedure**
 
 brainstorming and trying to understand the possible causes of that drop.
 
 Then, I will look at the data and use SQL to check my assumptions. After I have learned of which potential cause is more probable, I will draw up suggestions of solutions and next steps.
 
-**Factors/Possible Causes:**
+# **Factors/Possible Causes:**
 
 **Time** : Time is a good factor to consider since irregular trends are easier to spot when graphed. Here are the most common time-related data questions to ask yourself:
 
