@@ -2,11 +2,10 @@
  
 # The Problem
 
-&quot;How did our weekly engagement drop 21% in a month?!&quot;
-
 # **Job:**
 
 to identify the cause of this sudden drop in engagement and suggest possible next steps and solutions.
+<div class='tableauPlaceholder' id='viz1623776556559' style='position: relative'><noscript><a href='#'><img alt='Investigating a drop ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JM&#47;JMQ3RNQ97&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;JMQ3RNQ97' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JM&#47;JMQ3RNQ97&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1623776556559');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 # **Procedure**
 
@@ -39,3 +38,4 @@ Do we see the decline in occurring across specific platforms (ie. mobile, deskto
 **Outreach** : Yammer uses email communication to stay in touch with their users. Every week, two types of emails are sent: the weekly digest and the reengagement email. Yammer were able to track whether users opened the emails and whether they interacted with the content by clicking on the embedded links. **We can test to see if emails are the cause of the issue by looking at how users interact with their emails in August.**
 
 **Database problem:** There is an error in the database pipeline and it is not recording user activities or it is recording it but sending information to the wrong place. To test this, we can check all the database and links and formula in it.
+
