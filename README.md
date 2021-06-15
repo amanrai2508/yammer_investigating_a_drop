@@ -5,7 +5,30 @@
 # **Job:**
 
 to identify the cause of this sudden drop in engagement and suggest possible next steps and solutions.
-<div class='tableauPlaceholder' id='viz1623776556559' style='position: relative'><noscript><a href='#'><img alt='Investigating a drop ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JM&#47;JMQ3RNQ97&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;JMQ3RNQ97' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JM&#47;JMQ3RNQ97&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1623776556559');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1623776556559' style='position: relative'><noscript><a href='#'><img alt='Investigating a drop ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JM&#47;JMQ3RNQ97&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;JMQ3RNQ97' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JM&#47;JMQ3RNQ97&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>      
+
+
+# **List of Tables**
+
+![image](https://user-images.githubusercontent.com/37997480/122095545-271c1700-ce2b-11eb-8983-49cd90ea7301.png)
+
+
+![image](https://user-images.githubusercontent.com/37997480/122095186-abba6580-ce2a-11eb-9e09-4efbc589da4d.png)
+
+![image](https://user-images.githubusercontent.com/37997480/122095809-76fade00-ce2b-11eb-802a-4fb5ea1cb455.png)
+
+![image](https://user-images.githubusercontent.com/37997480/122095715-59c60f80-ce2b-11eb-9e57-a10550af2913.png)
+
+# **SQL(Functions Used)**
+Basic SQL syntax
+
+SQL aggregate functions
+
+Joining tables
+
+Writing subqueries
+
+Pivoting data in SQL
 
 # **Procedure**
 
@@ -39,3 +62,8 @@ Do we see the decline in occurring across specific platforms (ie. mobile, deskto
 
 **Database problem:** There is an error in the database pipeline and it is not recording user activities or it is recording it but sending information to the wrong place. To test this, we can check all the database and links and formula in it.
 
+# **Story and Visualizations**
+<div class='tableauPlaceholder' id='viz1623777728174' style='position: relative'><noscript><a href='#'><img alt='Investigating a drop ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InvestigatingADrop&#47;Investigatingadrop&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='InvestigatingADrop&#47;Investigatingadrop' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InvestigatingADrop&#47;Investigatingadrop&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
+
+# **Link**
+https://public.tableau.com/views/InvestigatingADrop/Investigatingadrop?:language=en-US&:display_count=n&:origin=viz_share_link
