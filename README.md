@@ -1,4 +1,4 @@
-# investigating a drop
+# Investigating a drop in user Engagement
  
 # The Problem
 
