@@ -8,7 +8,7 @@
 
 to identify the cause of this sudden drop in engagement and suggest possible next steps and solutions.
 
-**Procedure;**
+**Procedure**
 
 brainstorming and trying to understand the possible causes of that drop.
 
